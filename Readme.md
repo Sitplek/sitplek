@@ -2,8 +2,7 @@
 
 <div id="hello" align="justify">
     <h1><b>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></b></h1>
-    <!-- GIF на весь экран по горизонтали -->
-    <img src="./fire-fine.gif" style="width: 100%; height: auto;" />
+    <img src="./fire-fine.gif" width="100%" />
 </div>
 
 <div id="about" align="justify">
