@@ -1,8 +1,11 @@
 
+
 <div id="hello" align="justify">
     <h1><b>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></b></h1>
-    <img src="./fire-fine.gif" width=2000%//>
+    <!-- GIF на весь экран по горизонтали -->
+    <img src="./fire-fine.gif" style="width: 100%; height: auto;" />
 </div>
+
 <div id="about" align="justify">
     <h1><b>👨‍💻 About me:</b></h1>
     <h4>🖥 Backend and Embedded Engineer with a focus on C++</h4>
